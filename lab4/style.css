@@ -1,0 +1,77 @@
+body {
+  padding-top: 50px;
+  padding-right: 140px;
+  padding-bottom: 50px;
+  padding-left: 30px;
+}
+
+
+
+.a{
+	 padding-left: 250px;
+	 padding-bottom: 50px;
+	 float:left;
+}
+
+.head {
+	text-align:center;
+	 padding-top: 20px;
+	padding-right: 360px;
+	line-height: 0.6;
+	font-family: "Century Gothic";
+	  font-size: 18px;
+}
+.im{
+	padding-left: 60px;
+}
+
+.cor{
+	 padding-top: 5px;
+	 padding-right: 10px;
+	font-family: "Century Gothic";
+	 font-size: 18px;
+}
+
+}
+
+.sgi{
+	font-family: "Century Gothic";
+	 font-size: 18px;
+}
+
+table,th{
+	border: 2px solid black;
+	border-collapse: collapse
+	  padding-right: 10px;
+}
+
+td{
+	 text-align: center
+	   padding-right: 10px;
+}
+
+th.me{
+  border-color: #f1adf0;
+  background-color:#f1adf0;
+  border-collapse: collapse;
+
+  
+}
+tr.mo{
+   }
+h6 {
+  text-align: left;
+}
+
+.tabs{
+	font-family: "Century Gothic";
+}
+
+
+
+ 
+  
+
+
+
+f1adf0
